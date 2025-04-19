@@ -17,3 +17,21 @@ https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="Sport", TVRI Sport(ID)	
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1  group-title="ANAK" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork~~
+https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Nasional", GTV
+https://allcutv.rctiplus.id/gtv2023.m3u8
+
+#EXTINF:-1  tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="Nasional", MNCTV
+https://allcutv.rctiplus.id/mnctv2023.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png" group-title="Nasional", RCTI
+https://allcutv.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="Shareext@LOKAL_ID", INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="Lokal",SURABAYA•TV
+https://e.siar.us/live/surabayatv.m3u8
