@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="PSJTV.id" tvg-logo="https://www.psjtv.id/wp-content/uploads/2024/06/LOGO-PSJ-1-1536x498.webp" group-title="ShareExt@Relax",PSJ TV_🇲🇨
+#EXTINF:-1 tvg-id="PSJTV.id" tvg-logo="https://www.psjtv.id/wp-content/uploads/2024/06/LOGO-PSJ-1-1536x498.webp" group-title="Lokal",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://www.google.com/imgres?q=realmadrid%20TV&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2FTyNbisxuIwzUBjjNkUg8mOqR9_L2eKYShayM5A-kjpFeb0p47QCail4wuUn5KfCbDmB8yQ8RnD4%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fc%2FRealMadridTVFC%2Fvideos&docid=xhJm6Z9jF2Ep-M&tbnid=6IY1xNly2XzcTM&vet=12ahUKEwjhvIaIjuOMAxUHyDgGHQdaFVMQM3oECBcQAA..i&w=900&h=900&hcb=2&ved=2ahUKEwjhvIaIjuOMAxUHyDgGHQdaFVMQM3oECBcQAA" group-title="Sport",RealMadrid tv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
