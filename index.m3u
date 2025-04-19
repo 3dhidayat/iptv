@@ -1,4 +1,11 @@
+#EXTM3U
+
 #EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"  
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/scripts/global/indonesiapremium1.xml.json"
+#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="3600"
+
 
 #EXTINF:-1 tvg-id="PSJTV.id" tvg-name="PSJ TV" tvg-logo="https://www.psjtv.id/wp-content/uploads/2024/06/LOGO-PSJ-1-1536x498.webp" group-title="Lokal",PSJ TV 🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -110,5 +117,5 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-name="015" tvg-id="MAGNA TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="Lokal FTA",MAGNA TV
+#EXTINF:-1 tvg-name="015" tvg-id="MAGNA TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="Lokal",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
