@@ -1,14 +1,4 @@
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/jhB6zkE.png" group-title="Nasional",TVRI (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(TVRI)/index.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/VqNSyIp.png" group-title="Nasional",ANTV (576p)
-https://live.cdn.indostream.id/live/antv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="METROTV.id" tvg-logo="https://i.imgur.com/FpAoJFo.png" group-title="Nasional",Metro TV (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(METROTV)/index.m3u8
-
-#EXTINF:-1 tvg-id="TVONE.id" tvg-logo="https://i.imgur.com/wXqgCJp.png" group-title="Nasional",TV One (576p)
-https://live.cdn.indostream.id/live/tvone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BERITA1.id" tvg-logo="https://i.imgur.com/JqZK00W.png" group-title="Nasional",Berita Satu (480p)
-https://b1stream.btv.co.id/Beritasatu/B1News/chunklist.m3u8
+#EXTINF:-1 tvg-id="PSJTV.id" tvg-logo="https://www.psjtv.id/wp-content/uploads/2024/06/LOGO-PSJ-1-1536x498.webp" group-title="ShareExt@Relax",PSJ TV_🇲🇨
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
