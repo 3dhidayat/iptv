@@ -14,3 +14,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Sport" tvg-logo="https://iptv36.my.to/logo/tsports.png",T Sports 7_TH
 https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="Sport", TVRI Sport(ID)	
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
