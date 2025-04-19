@@ -9,7 +9,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Sport",WWE Network
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Sport",TNA
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1200px-Logo_Sport.svg.png",T Sports 7_TH
